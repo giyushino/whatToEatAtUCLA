@@ -15,18 +15,16 @@ for hall in diningHalls:
         links.append([r, hall])
 print(links)
 
-"""
+
 for link in links:
-    """
-    #f = open(r"C:\Users\allan\nvim\python\whatToEatAtUCLA\html\{}.txt".format(link[1]), "w")
-"""
+    f = open(r"C:\Users\allan\nvim\python\whatToEatAtUCLA\html\{}.txt".format(link[1]), "w")
     soup = BeautifulSoup(link[0].content, "html.parser")
     f.write("".join(char for char in soup.prettify() if ord(char) < 128))
     f.close()
     print(f"Finished writing {link[1]}")
-"""
 
 
+ 
 
 
 
