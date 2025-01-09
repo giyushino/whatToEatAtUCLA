@@ -1,50 +1,39 @@
-from bs4 import BeautifulSoup
+from openai import OpenAI
 
-# Parse the HTML file
-soup = BeautifulSoup(open(r"C:\Users\allan\nvim\python\whatToEatAtUCLA\html\Epicuria.txt"), "html.parser")
+# for backward compatibility, you can still use `https://api.deepseek.com/v1` as `base_url`.
+client = OpenAI(api_key="MY API KEY", base_url="https://api.deepseek.com")
 
-menu_items = soup.find_all('li', class_='menu-item')
+# Set up the initial system message (this can be modified)
+messages = [
+    {"role": "system", "content": "You are a helpful chatbot that helps users choose what to eat based on their preferences."}
+]
 
-
-f = open(r"C:\Users\allan\nvim\python\whatToEatAtUCLA\menu\Epicuria.txt", "w")
-
-# Process each menu item in this section
-for item in menu_items:
-    # Extract recipe name
-    recipe_name_tag = item.find('a', class_='recipelink')
-    recipe_name = recipe_name_tag.get_text(strip=True) if recipe_name_tag else 'No name found'
+# Loop to continue the conversation
+while True:
+    # Get user input
+    user_input = input("You: ")
     
-    # Extract description
-    description_tag = item.find('div', class_='tt-description')
-    description = description_tag.get_text(strip=True) if description_tag else 'No description found'
+    # Exit the loop if the user types 'exit'
+    if user_input.lower() == "exit":
+        print("Goodbye!")
+        break
     
-    # Extract dietary information (using a safe approach)
-    dietary_info = {}
-    dietary_info_tags = item.find_all('div', class_='tt-prodwebcode')
-    
-    for tag in dietary_info_tags:
-        dietary_label = tag.get_text(strip=True) if tag else None
-        img_tag = tag.find('img')
-        dietary_code = img_tag.get('alt') if img_tag else None
-        if dietary_label and dietary_code:
-            dietary_info[dietary_code] = dietary_label
-    
-    f.write(f"Recipe: {recipe_name}\n")
-    f.write(f"Description: {description}\n")
-    f.write("Dietary Info:\n")
-    for code, label in dietary_info.items():
-        f.write(f"  - {label} ({code})\n")
-    f.write("-" * 50 + "\n")
+    # Add the user's message to the conversation
+    messages.append({"role": "user", "content": user_input})
 
-    # Print the results for this recipe
-    print(f"  Recipe: {recipe_name}")
-    print(f"  Description: {description}")
-    print("  Dietary Info:")
-    for code, label in dietary_info.items():
-        print(f"   - {label} ({code})")
-    print("-" * 50)
+    # Send the conversation to the model and get the response
+    response = client.chat.completions.create(
+        model="deepseek-chat",
+        messages=messages,
+        max_tokens=1024,
+        temperature=0.7,
+        stream=False
+    )
 
-print("=" * 50)  # Separator between sections
+    # Get and print the model's response
+    bot_reply = response.choices[0].message.content
+    print(f"Bot: {bot_reply}")
 
-f.close()
+    # Add the bot's response to the conversation for context
+    messages.append({"role": "assistant", "content": bot_reply})
 

@@ -1,18 +1,32 @@
-from transformers import pipeline, set_seed
+from transformers import AutoModelForCausalLM, AutoTokenizer
+import torch
+olmo = AutoModelForCausalLM.from_pretrained("allenai/OLMo-1B-0724-hf", torch_dtype=torch.float16, load_in_8bit=True)
+tokenizer = AutoTokenizer.from_pretrained("allenai/OLMo-1B-0724-hf")
 
-# Set up the text generation pipeline with the model
-generator = pipeline('text-generation', model='distilgpt2', device=0)  # device=0 for GPU (use -1 for CPU)
+file_path = r"C:\Users\allan\nvim\python\whatToEatAtUCLA\menu\{}.txt"
+diningHalls = ["BruinPlate", "DeNeve", "Epicuria"]
+menus = []
 
-# Set the seed for reproducibility
-set_seed(42)
+for hall in diningHalls:
+    with open(file_path.format(hall), "r") as f:
+        menus.append(f.read())
 
-# Generate text based on the input prompt
-output = generator("Hello, I’m a language model", 
-                   max_length=20, 
-                   num_return_sequences=5, 
-                   truncation=True)  # Explicitly set truncation=True
 
-# Print generated outputs
-for idx, result in enumerate(output):
-    print(f"Generated {idx + 1}: {result['generated_text']}")
+
+message = [
+    "You are a helpful chatbot that helps users choose what to eat based on their preferences.\n"
+    """User: I'm hungry. What should I eat today. These are the options: Bruin Plate, DeNeve, and Epicuria.\n 
+    """
+    "Bot: These are the specials from each dining hall today. Bruin Plate has {}, DeNeve has {}, and Epicuria has {}\n",
+    "User: I want to eat some Italian Food. Where should I eat? \n"
+    ]
+
+
+inputs = tokenizer(message, return_tensors='pt', return_token_type_ids=False).to('cuda')
+
+
+response = olmo.generate(**inputs, max_new_tokens=100, do_sample=True, top_k=50, top_p=0.95)
+print(tokenizer.batch_decode(response, skip_special_tokens=True)[0])
+
+
 
