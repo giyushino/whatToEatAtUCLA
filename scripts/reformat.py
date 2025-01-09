@@ -3,50 +3,64 @@ import os
 # Init
 base_dir = os.path.dirname(os.path.abspath(__file__))
 menu_dir = os.path.join(base_dir, "menu")
-dining_halls = ["BruinPlate", "DeNeve", "Epicuria"]
+diningHalls = ["BruinPlate", "DeNeve", "Epicuria"]
 
-def create_menus(menu_dir, halls = ["BruinPlate", "DeNeve", "Epicuria"]):
+def create_menus(menu_dir, halls):
     """
     Creates aesthetically pleasing menus from the extracted HTML data 
 
     Args:
-        menu_dir (str): Directory where dining hall menu files are located
-        halls (list): List of dining dining_halls
+        menu_dir (str): Directory where dining hall menu files are located.
+        halls (list): List of dining halls.
+    
     Returns:
-        menus (list): List of dictionaries containing menu information
+        menus (list): List of dictionaries containing menu information.
     """
-    dining_halls = halls 
     menus = []
-    for hall in dining_halls:
+    
+    # Loop through each dining hall
+    for hall in halls:
         menu = {}
-        with open(menu_dir.format(hall), "r") as f:
+        
+        # Ensure proper path formatting
+        menu_file_path = menu_dir.format(hall)
+        
+        with open(menu_file_path, "r") as f:
             recipe = ""
             description = ""
             dietary_info = ""
 
+            # Read through the file line by line
             while True:
                 line = f.readline()
                 if not line:
                     break
                 line = line.strip()  
+
+                # If line contains 'Recipe', store the previous recipe and move on
                 if "Recipe" in line:
-                    if recipe:  
+                    if recipe:  # Avoid overwriting existing recipe
                         menu[recipe] = {"description": description, "dietary_info": dietary_info}
                     recipe = line.split(":")[1].strip()  
+                # If line contains 'Description', store the description
                 elif "Description" in line:
                     description = line.split(":")[1].strip()  
+                # If line contains 'Dietary Info', store the dietary information
                 elif "Dietary Info" in line:
                     dietary_info = ""  
                     while True:
                         line = f.readline().strip()  
-                        if not line or "-" in line:  
+                        if not line or "-" in line:  # End of dietary info block
                             break
                         dietary_info += line + " "  
 
+            # Add the last recipe to the menu
             if recipe:
                 menu[recipe] = {"description": description, "dietary_info": dietary_info}
 
+        # Append the current dining hall's menu to the list
         menus.append(menu)
+
     return menus
 
 
@@ -71,11 +85,11 @@ def split(menus):
             #print(f"Description: {details['description']}")
             #print(f"Dietary Info: {details['dietary_info']}")
             #print("---")
-        final.append([dining_halls[i], temp])
+        final.append([diningHalls[i], temp])
     return final
 
 
 
-#dining_halls = ["BruinPlate", "DeNeve", "Epicuria"]
-#menus = create_menus(menu_dir = menu_dir + r"\{}.txt" , halls = dining_halls)
+#menus = create_menus(menu_dir = menu_dir + r"\{}.txt" , halls = diningHalls)
+#print(menus)
 #print(split(menus))

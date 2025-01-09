@@ -9,4 +9,5 @@ scripts/webscraper.py
 whatToEatAtUCLA.egg-info/PKG-INFO
 whatToEatAtUCLA.egg-info/SOURCES.txt
 whatToEatAtUCLA.egg-info/dependency_links.txt
+whatToEatAtUCLA.egg-info/requires.txt
 whatToEatAtUCLA.egg-info/top_level.txt

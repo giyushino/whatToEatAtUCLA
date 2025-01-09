@@ -58,11 +58,9 @@ Dietary Info:
   - Contains Eggs (AEGG)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Kielbasa
+Recipe: Pork Sausage
 Description: No description found
 Dietary Info:
-  - Contains Soy (ASOY)
-  - High Carbon Footprint (HC)
 --------------------------------------------------
 Recipe: Scrambled Eggs
 Description: No description found

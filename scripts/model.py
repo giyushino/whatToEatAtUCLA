@@ -5,10 +5,10 @@ from scripts.reformat import create_menus, split
 # Initialize the base and menu directory 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 menu_dir = os.path.join(base_dir, "menu")
-dining_halls = ["DeNeve", "Epicuria", "BruinPlate"]
-OPENAI_API_KEY = 'YOUR KEY HERE'
+diningHalls = ["DeNeve", "Epicuria", "BruinPlate"]
+OPENAI_API_KEY = 'API_KEY'
 
-def deepseek_chat(menu_dir, halls=dining_halls, OPENAI_API_KEY=OPENAI_API_KEY):
+def deepseek_chat(menu_dir, halls=diningHalls, OPENAI_API_KEY=OPENAI_API_KEY):
     """
     A chatbot to help users choose meals based on preferences.
     
@@ -21,7 +21,7 @@ def deepseek_chat(menu_dir, halls=dining_halls, OPENAI_API_KEY=OPENAI_API_KEY):
     """
 
     client = OpenAI(api_key=OPENAI_API_KEY, base_url="https://api.deepseek.com")
-    menus = create_menus(menu_dir + r"\{}.txt", halls=halls)
+    menus = create_menus(menu_dir = menu_dir + r"\{}.txt" , halls = diningHalls)
     test = split(menus)
 
     messages = [
@@ -58,4 +58,5 @@ def deepseek_chat(menu_dir, halls=dining_halls, OPENAI_API_KEY=OPENAI_API_KEY):
         messages.append({"role": "assistant", "content": bot_reply})
 
 #deepseek_chat(menu_dir)
+
 
