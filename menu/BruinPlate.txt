@@ -1,0 +1,281 @@
+Recipe: Cream of Tomato Soup
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Dairy (AMLK)
+  - Halal Menu Option (HAL)
+--------------------------------------------------
+Recipe: Steak & Mushroom Soup
+Description: No description found
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+--------------------------------------------------
+Recipe: Chicken & Grits Bowl w/ Tomatillo Salsa
+Description: No description found
+Dietary Info:
+--------------------------------------------------
+Recipe: Jamaican Spiced Tofu, Black Eyed Peas w/ Red & Green Cabbage
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Soy (ASOY)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Roast Beef Tenderloin
+Description: No description found
+Dietary Info:
+  - High Carbon Footprint (HC)
+--------------------------------------------------
+Recipe: Garlic Pea Mashed Potatoes
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Cauliflower Al Pastor Taco
+Description: Al Pastor-Marinated Cauliflower, Pineapple-Avocado Salsa, Hand-Made Yellow Corn Tortilla
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Brown Calrose Rice
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: De La Olla Beans
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Farro
+Description: A mild, nutty flavored species of wheat native to northern Italy. Seasoned with garlic and simmered in vegetable broth.
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Roasted Broccoli
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Sauteed Kale
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Seared Barramundi
+Description: No description found
+Dietary Info:
+  - Contains Fish (AFSH)
+--------------------------------------------------
+Recipe: Grilled Eggplant
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Avocado-Stuffed Potato Skins
+Description: Baked Russet Potato Halves, Whipped Avocado, Spinach, Potato Puree, Garlic, Green Onion, Fresh Thyme
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Cantaloupe
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Green Grapes
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Kiwi
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Pineapple
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Red Grapes
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Ganache Tart
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Peanuts (APNT)
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Sesame (ASES)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: Multi-Grain Bread
+Description: No description found
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Dairy (AMLK)
+--------------------------------------------------
+Recipe: Olive Oil Mocha Bread
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Sesame (ASES)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: Raisin Walnut Bread
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Vegan Banana Walnut Bread
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Whole Wheat Sourdough Bread
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+--------------------------------------------------
+Recipe: Zucchini Chocolate Bar
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: Almond Cashew Butter
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Peanuts (APNT)
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Sesame (ASES)
+  - Contains Dairy (AMLK)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Blueberry & Roasted Red Grape Marmalade
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Cacao Butter
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Peanuts (APNT)
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+  - Halal Menu Option (HAL)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Peanut Butter
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Peanuts (APNT)
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+--------------------------------------------------
+Recipe: Pear Butter
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Blueberries
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Granola
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+--------------------------------------------------
+Recipe: Lowfat Greek Yogurt
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Dairy (AMLK)
+--------------------------------------------------
+Recipe: Mango
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Vegan Coconut Yogurt
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Tree Nuts (ATNT)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Lime Water
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
