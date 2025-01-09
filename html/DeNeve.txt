@@ -806,14 +806,14 @@
         <ul class="item-list">
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/081070/6">
-            BBQ Baby Back Ribs
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/111020/2">
+            Kansas City Rub Grilled Chicken
            </a>
           </span>
           <div class="item-description-wrapper">
            <div class="item-description">
             <div class="tt-description">
-             Slow Roasted Pork Baby Back Ribs, BBQ
+             Garlic, Onion, Brown Sugar, Smoked Paprika, Cayenne,
             </div>
            </div>
           </div>
@@ -821,21 +821,21 @@
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
            w/
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/977127/1">
-            Mashed Potatoes
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/171050/2">
+            Corn &amp; Lima Bean Succotash
            </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
+           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
+           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
           </span>
           <div class="item-description-wrapper">
            <div class="item-description">
             <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
+             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
+             Vegan Menu Option
             </div>
             <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
+             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
+             Low Carbon Footprint
             </div>
            </div>
           </div>
@@ -902,28 +902,6 @@
             <div class="tt-prodwebcode">
              <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
              Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           w/
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/977127/1">
-            Mashed Potatoes
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
             </div>
            </div>
           </div>
