@@ -7,6 +7,6 @@ The major backbone of this project relies on Deepseek, so you will need an API k
 To use this project, run 
 
 ```sh
-DEBUG=3 python3 -c "pip install -r ."
-                   "pip install -e ."
+pip install -r .
+pip install -e .
 ``` 
