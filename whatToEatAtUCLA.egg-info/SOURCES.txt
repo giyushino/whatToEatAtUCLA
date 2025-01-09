@@ -1,0 +1,12 @@
+README.md
+setup.py
+scripts/__init__.py
+scripts/cosineSimilarity.py
+scripts/main.py
+scripts/model.py
+scripts/reformat.py
+scripts/webscraper.py
+whatToEatAtUCLA.egg-info/PKG-INFO
+whatToEatAtUCLA.egg-info/SOURCES.txt
+whatToEatAtUCLA.egg-info/dependency_links.txt
+whatToEatAtUCLA.egg-info/top_level.txt
