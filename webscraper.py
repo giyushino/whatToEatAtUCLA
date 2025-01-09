@@ -6,7 +6,7 @@ import requests
 diningHalls = ["DeNeve", "Epicuria", "BruinPlate", "FeastAtRieber"]
 
 # Don't forget to remove tomorrow from link in future
-diningHallLink = "https://menu.dining.ucla.edu/Menus/{diningHall}/tomorrow"
+diningHallLink = "https://menu.dining.ucla.edu/Menus/{diningHall}"
 links = []
 
 for hall in diningHalls:

@@ -341,28 +341,28 @@
         Jump to Date
        </option>
        <option value="/Menus/BruinPlate/Yesterday">
-        Yesterday, January 4
+        Yesterday, January 7
        </option>
        <option value="/Menus/BruinPlate/Today">
-        Today, January 5
+        Today, January 8
        </option>
        <option value="/Menus/BruinPlate/Tomorrow">
-        Tomorrow, January 6
-       </option>
-       <option value="/Menus/BruinPlate/2025-01-07">
-        Tuesday, January 7
-       </option>
-       <option value="/Menus/BruinPlate/2025-01-08">
-        Wednesday, January 8
-       </option>
-       <option value="/Menus/BruinPlate/2025-01-09">
-        Thursday, January 9
+        Tomorrow, January 9
        </option>
        <option value="/Menus/BruinPlate/2025-01-10">
         Friday, January 10
        </option>
        <option value="/Menus/BruinPlate/2025-01-11">
         Saturday, January 11
+       </option>
+       <option value="/Menus/BruinPlate/2025-01-12">
+        Sunday, January 12
+       </option>
+       <option value="/Menus/BruinPlate/2025-01-13">
+        Monday, January 13
+       </option>
+       <option value="/Menus/BruinPlate/2025-01-14">
+        Tuesday, January 14
        </option>
       </select>
       <hr class="clearall"/>
@@ -382,1170 +382,23 @@
       </p>
      </div>
      <div class="meal-back-link">
-      <a href="/Menus/tomorrow">
-        Tomorrow's Menu Overview
+      <a href="/Menus">
+        Today's Menu Overview
       </a>
      </div>
      <h2 id="page-header">
-      Bruin Plate Menu for Tomorrow, January 6, 2025
+      Bruin Plate Menu for Today, January 8, 2025
      </h2>
-     <div class="menu-block third-col">
+     <div class="menu-block whole-col">
       <h3 class="col-header">
-       Breakfast
+       Dinner
       </h3>
       <div class="location-detail-links">
-       <a href="/Menus/tomorrow/Breakfast">
+       <a href="/Menus/Dinner">
         All Residential Restaurants
        </a>
        |
-       <a href="/NutritiveAnalysis/BruinPlate/tomorrow/Breakfast">
-        Nutritive Analysis
-       </a>
-      </div>
-      <ul class="sect-list">
-       <li class="sect-item">
-        Hot Cereals
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/031007/6">
-            Oatmeal
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/031024/6">
-            White Polenta
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Freshly Bowled
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/113062/4">
-            Barley, Seasoned Turkey, Kale, &amp; Egg Bowl
-           </a>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Harvest
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/163100/4">
-            Green Chile Rice w/ Black Beans &amp; Egg
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/061101/3">
-            Scrambled Egg Whites
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/061102/3">
-            Scrambled Eggs
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/140506/3">
-            Vegan Scrambled Eggs
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           w/
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/161061/2">
-            Roasted Red Breakfast Potato Wedges
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Stone Oven
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/217010/4">
-            Four Grain Waffles
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-description">
-             Oat Flour, Whole Wheat, Quick Oats &amp; Cornmeal Waffle
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/973214/2">
-            Waffle
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           w/
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/191002/1">
-            Maple Syrup
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           &amp;
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/189217/1">
-            Pineapple Compote
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Simply Grilled
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/217064/2">
-            Ginger Pancake w/ Banana Walnut Topping
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/140158/1">
-            Vegan Pancake
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-description">
-             Fluffy vegan pancake made from whole wheat flour and soy milk.
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Fruit
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/970372/1!2">
-            Blood Oranges
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/201027/1">
-            Cantaloupe
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/973667/1">
-            Cara Cara Orange
-           </a>
-          </span>
-          <div class="item-description-wrapper">
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/970242/1">
-            Grapefruit
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/201925/1">
-            Green Grapes
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/973523/1!2">
-            Kiwi
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/201029/1">
-            Pineapple
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/201923/1">
-            Red Grapes
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Sweet Bites
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979360/1">
-            Boston Brown Bread
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979807/1">
-            Multi-Grain Bread
-           </a>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979731/1">
-            Raisin Walnut Bread
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979759/1">
-            Vegan Cranberry Orange Quickbread
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979761/1">
-            Whole Wheat Sourdough Bread
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221176/1">
-            Almond Cashew Butter
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="ASES" class="webcode-16px" src="/Content/Images/WebCodes/128px/ases.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-             Contains Peanuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASES" class="webcode-16px" src="/Content/Images/WebCodes/128px/ases.png"/>
-             Contains Sesame
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221144/1">
-            Cacao Butter
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-           <img alt="HAL" class="webcode-16px" src="/Content/Images/WebCodes/128px/hal.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-             Contains Peanuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="HAL" class="webcode-16px" src="/Content/Images/WebCodes/128px/hal.png"/>
-             Halal Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221155/1">
-            Kiwi-Apple Compote
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221175/1">
-            Peanut Butter
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-             Contains Peanuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Yogurt Bar
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/204005/1">
-            Blueberries
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/971486/1">
-            Cottage Cheese
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/970834/1">
-            Granola
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/974075/1">
-            Lowfat Greek Yogurt
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/972028/1">
-            Mango
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/048001/1">
-            Strawberry Yogurt
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/971591/1">
-            Vegan Coconut Yogurt
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Beverage Special
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/233302/10">
-            Lime Water
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-      </ul>
-     </div>
-     <div class="menu-block third-col">
-      <h3 class="col-header">
-       Lunch
-      </h3>
-      <div class="location-detail-links">
-       <a href="/Menus/tomorrow/Lunch">
-        All Residential Restaurants
-       </a>
-       |
-       <a href="/NutritiveAnalysis/BruinPlate/tomorrow/Lunch">
+       <a href="/NutritiveAnalysis/BruinPlate/Today/Dinner">
         Nutritive Analysis
        </a>
       </div>
@@ -1612,8 +465,17 @@
         <ul class="item-list">
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/140175/5">
-            Black Quinoa, BBQ Tofu &amp; Red Bean Bowl
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/142044/5">
+            Chicken &amp; Grits Bowl w/ Tomatillo Salsa
+           </a>
+          </span>
+          <div class="item-description-wrapper">
+          </div>
+         </li>
+         <li class="menu-item">
+          <span class="tooltip-target-wrapper">
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/140207/5">
+            Jamaican Spiced Tofu, Black Eyed Peas w/ Red &amp; Green Cabbage
            </a>
            <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
            <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
@@ -1628,47 +490,6 @@
             <div class="tt-prodwebcode">
              <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
              Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/165100/4">
-            Parsnip &amp; Swiss Chard Whole Wheat Pasta
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-           <img alt="AALC" class="webcode-16px" src="/Content/Images/WebCodes/128px/aalc.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AALC" class="webcode-16px" src="/Content/Images/WebCodes/128px/aalc.png"/>
-             Prepared with Alcohol
             </div>
             <div class="tt-prodwebcode">
              <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
@@ -1684,265 +505,13 @@
         <ul class="item-list">
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/041209/3">
-            Fennel, Cucumber, &amp; Chicken Salad w/ Pita Chips
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/071140/1">
+            Roast Beef Tenderloin
            </a>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="ASES" class="webcode-16px" src="/Content/Images/WebCodes/128px/ases.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASES" class="webcode-16px" src="/Content/Images/WebCodes/128px/ases.png"/>
-             Contains Sesame
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/140294/1">
-            Roasted Beet, Goat Cheese, &amp; Arugula Stacker
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Farm Stand
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/163083/2">
-            Brown Basmati Rice
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="HAL" class="webcode-16px" src="/Content/Images/WebCodes/128px/hal.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="HAL" class="webcode-16px" src="/Content/Images/WebCodes/128px/hal.png"/>
-             Halal Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/977417/2">
-            De La Olla Beans
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/175103/3">
-            Pan Roasted Mushrooms w/ Onions
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/175195/2">
-            Sauted Spinach
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Stone Oven
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/141144/1">
-            Pear, Thyme, &amp; Blue Cheese Pizza
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-description">
-             D'Anjou Pear, Thyme Infused Mape Syrup, Watercress, Ricotta, Blue Cheese, Whole Wheat Flatbread
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/141142/1">
-            Roasted Pork, Sorrel, &amp; Goat Cheese Pizza
-           </a>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-description">
-             Shredded Pork Loin, Rhubarb Compote, Chevre, Sorrel, Whole Wheat Flatbread
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Simply Grilled
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/077023/1">
-            Bison Slider w/ Tomato Jam
-           </a>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
            <img alt="HC" class="webcode-16px" src="/Content/Images/WebCodes/128px/hc.png"/>
           </span>
           <div class="item-description-wrapper">
            <div class="item-description">
-            <div class="tt-description">
-             Bison, Baby Arugula, Tomato Jam, Pretzel Knot Slider Bun
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
             <div class="tt-prodwebcode">
              <img alt="HC" class="webcode-16px" src="/Content/Images/WebCodes/128px/hc.png"/>
              High Carbon Footprint
@@ -1952,84 +521,9 @@
          </li>
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/111356/2">
-            Herb de Provence Marinated Grilled Chicken Thigh
-           </a>
-          </span>
-          <div class="item-description-wrapper">
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/140437/1">
-            Red Quinoa &amp; Yam Stacker w/ Pineapple Salsa
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/161045/2">
-            Yukon Gold Potato Wedges
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Fruit
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/970372/1!2">
-            Blood Oranges
+           w/
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/161065/2">
+            Garlic Pea Mashed Potatoes
            </a>
            <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
            <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
@@ -2049,884 +543,20 @@
          </li>
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/201027/1">
-            Cantaloupe
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/973667/1">
-            Cara Cara Orange
-           </a>
-          </span>
-          <div class="item-description-wrapper">
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/201925/1">
-            Green Grapes
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/973523/1!2">
-            Kiwi
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/201029/1">
-            Pineapple
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/201923/1">
-            Red Grapes
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Sweet Bites
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979360/1">
-            Boston Brown Bread
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979494/1">
-            Brownie
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="AALC" class="webcode-16px" src="/Content/Images/WebCodes/128px/aalc.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AALC" class="webcode-16px" src="/Content/Images/WebCodes/128px/aalc.png"/>
-             Prepared with Alcohol
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979807/1">
-            Multi-Grain Bread
-           </a>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979731/1">
-            Raisin Walnut Bread
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979759/1">
-            Vegan Cranberry Orange Quickbread
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/175039/1">
+            Cauliflower Al Pastor Taco
            </a>
            <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
            <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
            <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
            <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979761/1">
-            Whole Wheat Sourdough Bread
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221176/1">
-            Almond Cashew Butter
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="ASES" class="webcode-16px" src="/Content/Images/WebCodes/128px/ases.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-             Contains Peanuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASES" class="webcode-16px" src="/Content/Images/WebCodes/128px/ases.png"/>
-             Contains Sesame
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221144/1">
-            Cacao Butter
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-           <img alt="HAL" class="webcode-16px" src="/Content/Images/WebCodes/128px/hal.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-             Contains Peanuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="HAL" class="webcode-16px" src="/Content/Images/WebCodes/128px/hal.png"/>
-             Halal Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221155/1">
-            Kiwi-Apple Compote
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221175/1">
-            Peanut Butter
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
-             Contains Peanuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/189217/1">
-            Pineapple Compote
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Yogurt Bar
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/204005/1">
-            Blueberries
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/970834/1">
-            Granola
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/974075/1">
-            Lowfat Greek Yogurt
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/972028/1">
-            Mango
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/971591/1">
-            Vegan Coconut Yogurt
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Beverage Special
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/233302/10">
-            Lime Water
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-      </ul>
-     </div>
-     <div class="menu-block third-col">
-      <h3 class="col-header">
-       Dinner
-      </h3>
-      <div class="location-detail-links">
-       <a href="/Menus/tomorrow/Dinner">
-        All Residential Restaurants
-       </a>
-       |
-       <a href="/NutritiveAnalysis/BruinPlate/tomorrow/Dinner">
-        Nutritive Analysis
-       </a>
-      </div>
-      <ul class="sect-list">
-       <li class="sect-item">
-        Soups
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/977029/6">
-            Cream of Tomato Soup
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="HAL" class="webcode-16px" src="/Content/Images/WebCodes/128px/hal.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="HAL" class="webcode-16px" src="/Content/Images/WebCodes/128px/hal.png"/>
-             Halal Menu Option
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/977057/6">
-            Steak &amp; Mushroom Soup
-           </a>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Freshly Bowled
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/140174/5">
-            Tofu, Black-Eyed Peas, &amp; Collard Greens Bowl
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/140741/5">
-            Italian Style Seitan w/ Spinach &amp; Whole Wheat Penne
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
            <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
           </span>
           <div class="item-description-wrapper">
            <div class="item-description">
             <div class="tt-description">
-             Seitan, Italian Spices, Whole Wheat Penne, Onion, Tomato, Spinach, Basil
+             Al Pastor-Marinated Cauliflower, Pineapple-Avocado Salsa, Hand-Made Yellow Corn Tortilla
             </div>
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-        </ul>
-       </li>
-       <li class="sect-item">
-        Harvest
-        <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/111317/4">
-            Roast Chicken w/ Almond Mojo
-           </a>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           w/
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/163083/2">
-            Brown Basmati Rice
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="HAL" class="webcode-16px" src="/Content/Images/WebCodes/128px/hal.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="HAL" class="webcode-16px" src="/Content/Images/WebCodes/128px/hal.png"/>
-             Halal Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/166017/2">
-            Flageolet Bean Ragout
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
             <div class="tt-prodwebcode">
              <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
              Vegan Menu Option
@@ -2999,21 +629,26 @@
          </li>
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/036006/2">
-            Steamed Barley
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/036002/2">
+            Farro
            </a>
            <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
+           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
            <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
            <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
           </span>
           <div class="item-description-wrapper">
            <div class="item-description">
             <div class="tt-description">
-             Oven-steamed barley pearls have a nutty flavor and pasta-like texture.
+             A mild, nutty flavored species of wheat native to northern Italy. Seasoned with garlic and simmered in vegetable broth.
             </div>
             <div class="tt-prodwebcode">
              <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
              Vegan Menu Option
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
+             Contains Wheat
             </div>
             <div class="tt-prodwebcode">
              <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
@@ -3028,8 +663,8 @@
          </li>
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/175207/2">
-            Garlicky Green Beans
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/175173/2">
+            Roasted Broccoli
            </a>
            <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
            <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
@@ -3049,8 +684,8 @@
          </li>
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/175202/2">
-            Sauteed Bok Choy
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/175179/2">
+            Sauteed Kale
            </a>
            <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
            <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
@@ -3075,81 +710,54 @@
         <ul class="item-list">
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/071065/2">
-            Soy Garlic Grilled Flank Steak
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/121127/2">
+            Seared Barramundi
            </a>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="HC" class="webcode-16px" src="/Content/Images/WebCodes/128px/hc.png"/>
+           <img alt="AFSH" class="webcode-16px" src="/Content/Images/WebCodes/128px/afsh.png"/>
           </span>
           <div class="item-description-wrapper">
            <div class="item-description">
             <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="HC" class="webcode-16px" src="/Content/Images/WebCodes/128px/hc.png"/>
-             High Carbon Footprint
+             <img alt="AFSH" class="webcode-16px" src="/Content/Images/WebCodes/128px/afsh.png"/>
+             Contains Fish
             </div>
            </div>
           </div>
          </li>
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/140588/2">
-            Grilled Portobello Mushroom
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AALC" class="webcode-16px" src="/Content/Images/WebCodes/128px/aalc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AALC" class="webcode-16px" src="/Content/Images/WebCodes/128px/aalc.png"/>
-             Prepared with Alcohol
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/161120/3">
-            Baked Red Rose Potato
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/175046/2">
+            Grilled Eggplant
            </a>
            <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
            <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
           </span>
           <div class="item-description-wrapper">
            <div class="item-description">
+            <div class="tt-prodwebcode">
+             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
+             Vegan Menu Option
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
+             Low Carbon Footprint
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="menu-item">
+          <span class="tooltip-target-wrapper">
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/161034/1">
+            Avocado-Stuffed Potato Skins
+           </a>
+           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
+           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
+          </span>
+          <div class="item-description-wrapper">
+           <div class="item-description">
+            <div class="tt-description">
+             Baked Russet Potato Halves, Whipped Avocado, Spinach, Potato Puree, Garlic, Green Onion, Fresh Thyme
+            </div>
             <div class="tt-prodwebcode">
              <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
              Vegan Menu Option
@@ -3166,27 +774,6 @@
        <li class="sect-item">
         Fruit
         <ul class="item-list">
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/970372/1!2">
-            Blood Oranges
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
            <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/201027/1">
@@ -3210,16 +797,7 @@
          </li>
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/973667/1">
-            Cara Cara Orange
-           </a>
-          </span>
-          <div class="item-description-wrapper">
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/201925/1">
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/201925/2">
             Green Grapes
            </a>
            <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
@@ -3308,85 +886,8 @@
         <ul class="item-list">
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979360/1">
-            Boston Brown Bread
-           </a>
-           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
-             Vegetarian Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
-             Contains Wheat
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
-             Contains Gluten
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-             Contains Eggs
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979494/1">
-            Brownie
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-           <img alt="AALC" class="webcode-16px" src="/Content/Images/WebCodes/128px/aalc.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
-             Contains Tree Nuts
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
-             Contains Soy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
-             Contains Dairy
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AALC" class="webcode-16px" src="/Content/Images/WebCodes/128px/aalc.png"/>
-             Prepared with Alcohol
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979758/2">
-            Chocolate Budino w/ Basil Seed Caviar
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979348/1">
+            Ganache Tart
            </a>
            <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
            <img alt="APNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/apnt.png"/>
@@ -3394,9 +895,9 @@
            <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
            <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
            <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
+           <img alt="ASES" class="webcode-16px" src="/Content/Images/WebCodes/128px/ases.png"/>
            <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
            <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
-           <img alt="AALC" class="webcode-16px" src="/Content/Images/WebCodes/128px/aalc.png"/>
           </span>
           <div class="item-description-wrapper">
            <div class="item-description">
@@ -3425,16 +926,16 @@
              Contains Soy
             </div>
             <div class="tt-prodwebcode">
+             <img alt="ASES" class="webcode-16px" src="/Content/Images/WebCodes/128px/ases.png"/>
+             Contains Sesame
+            </div>
+            <div class="tt-prodwebcode">
              <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
              Contains Dairy
             </div>
             <div class="tt-prodwebcode">
              <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
              Contains Eggs
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="AALC" class="webcode-16px" src="/Content/Images/WebCodes/128px/aalc.png"/>
-             Prepared with Alcohol
             </div>
            </div>
           </div>
@@ -3461,6 +962,57 @@
             <div class="tt-prodwebcode">
              <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
              Contains Dairy
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="menu-item">
+          <span class="tooltip-target-wrapper">
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979356/1">
+            Olive Oil Mocha Bread
+           </a>
+           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
+           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
+           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
+           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
+           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
+           <img alt="ASES" class="webcode-16px" src="/Content/Images/WebCodes/128px/ases.png"/>
+           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
+           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
+          </span>
+          <div class="item-description-wrapper">
+           <div class="item-description">
+            <div class="tt-prodwebcode">
+             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
+             Vegetarian Menu Option
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
+             Contains Tree Nuts
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
+             Contains Wheat
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
+             Contains Gluten
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
+             Contains Soy
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="ASES" class="webcode-16px" src="/Content/Images/WebCodes/128px/ases.png"/>
+             Contains Sesame
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
+             Contains Dairy
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
+             Contains Eggs
             </div>
            </div>
           </div>
@@ -3503,19 +1055,25 @@
          </li>
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979759/1">
-            Vegan Cranberry Orange Quickbread
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979367/1">
+            Vegan Banana Walnut Bread
            </a>
            <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
+           <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
            <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
            <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
            <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
+           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
           </span>
           <div class="item-description-wrapper">
            <div class="item-description">
             <div class="tt-prodwebcode">
              <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
              Vegan Menu Option
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="ATNT" class="webcode-16px" src="/Content/Images/WebCodes/128px/atnt.png"/>
+             Contains Tree Nuts
             </div>
             <div class="tt-prodwebcode">
              <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
@@ -3528,6 +1086,10 @@
             <div class="tt-prodwebcode">
              <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
              Contains Soy
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
+             Low Carbon Footprint
             </div>
            </div>
           </div>
@@ -3554,6 +1116,47 @@
             <div class="tt-prodwebcode">
              <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
              Contains Gluten
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="menu-item">
+          <span class="tooltip-target-wrapper">
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/979241/1">
+            Zucchini Chocolate Bar
+           </a>
+           <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
+           <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
+           <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
+           <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
+           <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
+           <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
+          </span>
+          <div class="item-description-wrapper">
+           <div class="item-description">
+            <div class="tt-prodwebcode">
+             <img alt="V" class="webcode-16px" src="/Content/Images/WebCodes/128px/v.png"/>
+             Vegetarian Menu Option
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="AWHT" class="webcode-16px" src="/Content/Images/WebCodes/128px/awht.png"/>
+             Contains Wheat
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="AGTN" class="webcode-16px" src="/Content/Images/WebCodes/128px/agtn.png"/>
+             Contains Gluten
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="ASOY" class="webcode-16px" src="/Content/Images/WebCodes/128px/asoy.png"/>
+             Contains Soy
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
+             Contains Dairy
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="AEGG" class="webcode-16px" src="/Content/Images/WebCodes/128px/aegg.png"/>
+             Contains Eggs
             </div>
            </div>
           </div>
@@ -3606,6 +1209,27 @@
             <div class="tt-prodwebcode">
              <img alt="AMLK" class="webcode-16px" src="/Content/Images/WebCodes/128px/amlk.png"/>
              Contains Dairy
+            </div>
+            <div class="tt-prodwebcode">
+             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
+             Low Carbon Footprint
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="menu-item">
+          <span class="tooltip-target-wrapper">
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221151/1">
+            Blueberry &amp; Roasted Red Grape Marmalade
+           </a>
+           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
+           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
+          </span>
+          <div class="item-description-wrapper">
+           <div class="item-description">
+            <div class="tt-prodwebcode">
+             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
+             Vegan Menu Option
             </div>
             <div class="tt-prodwebcode">
              <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
@@ -3677,27 +1301,6 @@
          </li>
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221155/1">
-            Kiwi-Apple Compote
-           </a>
-           <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-           <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-          </span>
-          <div class="item-description-wrapper">
-           <div class="item-description">
-            <div class="tt-prodwebcode">
-             <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
-             Vegan Menu Option
-            </div>
-            <div class="tt-prodwebcode">
-             <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
-             Low Carbon Footprint
-            </div>
-           </div>
-          </div>
-         </li>
-         <li class="menu-item">
-          <span class="tooltip-target-wrapper">
            <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221175/1">
             Peanut Butter
            </a>
@@ -3744,8 +1347,8 @@
          </li>
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/189217/1">
-            Pineapple Compote
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/221142/1">
+            Pear Butter
            </a>
            <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
            <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
@@ -3895,8 +1498,8 @@
         <ul class="item-list">
          <li class="menu-item">
           <span class="tooltip-target-wrapper">
-           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/233306/10">
-            Pineapple Water
+           <a class="recipelink" href="https://menu.dining.ucla.edu/Recipes/233302/10">
+            Lime Water
            </a>
            <img alt="VG" class="webcode-16px" src="/Content/Images/WebCodes/128px/vg.png"/>
            <img alt="LC" class="webcode-16px" src="/Content/Images/WebCodes/128px/lc.png"/>
