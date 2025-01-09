@@ -25,7 +25,7 @@ def access_html(diningHalls):
         soup = BeautifulSoup(r.content, "html.parser")
         f.write("".join(char for char in soup.prettify() if ord(char) < 128))
         f.close()
-        print(f"Finished writing {output_path.format(hall)}")
+        #print(f"Finished writing {output_path.format(hall)}")
     
 #access_html(diningHalls)
 
@@ -65,17 +65,18 @@ def parse(input_path = r"C:\Users\allan\nvim\python\whatToEatAtUCLA\html", outpu
             f.write("-" * 50 + "\n")
 
             # Print the results for this recipe
-            print(f"  Recipe: {recipe_name}")
-            print(f"  Description: {description}")
-            print("  Dietary Info:")
-            for code, label in dietary_info.items():
-                print(f"   - {label} ({code})")
-            print("-" * 50)
+            #print(f"  Recipe: {recipe_name}")
+            #print(f"  Description: {description}")
+            #print("  Dietary Info:")
+            #for code, label in dietary_info.items():
+            #    print(f"   - {label} ({code})")
+            #print("-" * 50)
 
         print("=" * 50)  # Separator between sections
 
         f.close()
         print(f"Successfully obtained {hall}'s menu")
+    print("=" * 50) 
 
 
-parse()        
+#parse()        

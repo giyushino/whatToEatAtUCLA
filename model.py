@@ -1,32 +1,45 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer
-import torch
-olmo = AutoModelForCausalLM.from_pretrained("allenai/OLMo-1B-0724-hf", torch_dtype=torch.float16, load_in_8bit=True)
-tokenizer = AutoTokenizer.from_pretrained("allenai/OLMo-1B-0724-hf")
+from openai import OpenAI
+from reformat import create_menus, split 
 
-file_path = r"C:\Users\allan\nvim\python\whatToEatAtUCLA\menu\{}.txt"
-diningHalls = ["BruinPlate", "DeNeve", "Epicuria"]
-menus = []
+def deepseek_chat():
+    client = OpenAI(api_key="YOUR-API-KEY", base_url="https://api.deepseek.com")
 
-for hall in diningHalls:
-    with open(file_path.format(hall), "r") as f:
-        menus.append(f.read())
+    dining_halls = ["BruinPlate", "DeNeve", "Epicuria"]
+    menu_path = r"C:\Users\allan\nvim\python\whatToEatAtUCLA\menu\{}.txt"
+    menus = create_menus(menu_path, halls = dining_halls)
 
+    test = split(menus)
 
-
-message = [
-    "You are a helpful chatbot that helps users choose what to eat based on their preferences.\n"
-    """User: I'm hungry. What should I eat today. These are the options: Bruin Plate, DeNeve, and Epicuria.\n 
-    """
-    "Bot: These are the specials from each dining hall today. Bruin Plate has {}, DeNeve has {}, and Epicuria has {}\n",
-    "User: I want to eat some Italian Food. Where should I eat? \n"
+    messages = [
+            {"role": "system", "content": "You are a helpful chatbot that helps users choose what to eat based on their preferences. You have access to the menus from the following dining halls: {}: {}, {}: {}, {}: {}".format(test[0][0], test[0][1], test[1][0], test[1][1], test[2][0], test[2][1])}
     ]
+    print("What would you like to eat? Do you have any preferences or allergies?")
+    # Loop to continue the conversation
+    while True:
+        # Get user input
+        user_input = input("Enter: ")
+        
+        # Exit the loop if the user types 'exit'
+        if user_input.lower() == "exit":
+            print("Goodbye!")
+            break
+        
+        # Add the user's message to the conversation
+        messages.append({"role": "user", "content": user_input})
 
+        # Send the conversation to the model and get the response
+        response = client.chat.completions.create(
+            model="deepseek-chat",
+            messages=messages,
+            max_tokens=1024,
+            temperature=0.7,
+            stream=False
+        )
 
-inputs = tokenizer(message, return_tensors='pt', return_token_type_ids=False).to('cuda')
+        # Get and print the model's response
+        bot_reply = response.choices[0].message.content
+        print(f"Dining Assistant: {bot_reply}")
 
-
-response = olmo.generate(**inputs, max_new_tokens=100, do_sample=True, top_k=50, top_p=0.95)
-print(tokenizer.batch_decode(response, skip_special_tokens=True)[0])
-
-
+        # Add the bot's response to the conversation for context
+        messages.append({"role": "assistant", "content": bot_reply})
 

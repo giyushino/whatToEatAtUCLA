@@ -1,61 +1,202 @@
-Recipe: Prairie Midwest
+Recipe: Bagel
+Description: Assorted Varieties
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+--------------------------------------------------
+Recipe: Cantaloupe
 Description: No description found
 Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Cheddar Cheese
+Recipe: Honeydew Melon
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Watermelon
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Oatmeal
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Gluten (AGTN)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Wheatena
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Huevos Rancheros Breakfast Tostada
 Description: No description found
 Dietary Info:
   - Vegetarian Menu Option (V)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: Breakfast Hash Browns
+Description: No description found
+Dietary Info:
   - Contains Dairy (AMLK)
 --------------------------------------------------
-Recipe: Onion
-Description: Diced yellow onion.
-Dietary Info:
-  - Vegan Menu Option (VG)
-  - Low Carbon Footprint (LC)
---------------------------------------------------
-Recipe: Sliced Jalapeo Peppers
+Recipe: Fried Eggs
 Description: No description found
 Dietary Info:
-  - Vegan Menu Option (VG)
+  - Vegetarian Menu Option (V)
+  - Contains Eggs (AEGG)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Minnesota Hunters Chili
+Recipe: Kielbasa
 Description: No description found
 Dietary Info:
+  - Contains Soy (ASOY)
+  - High Carbon Footprint (HC)
 --------------------------------------------------
-Recipe: Brown Rice, Lentil, & Black Bean Saute
+Recipe: Scrambled Eggs
 Description: No description found
 Dietary Info:
-  - Vegan Menu Option (VG)
+  - Vegetarian Menu Option (V)
+  - Contains Eggs (AEGG)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Garlicky Green Beans
-Description: No description found
-Dietary Info:
-  - Vegan Menu Option (VG)
-  - Low Carbon Footprint (LC)
---------------------------------------------------
-Recipe: Pan Roasted Mushrooms w/ Onions
-Description: No description found
-Dietary Info:
-  - Vegan Menu Option (VG)
-  - Low Carbon Footprint (LC)
---------------------------------------------------
-Recipe: Roasted Broccoli
-Description: No description found
-Dietary Info:
-  - Vegan Menu Option (VG)
-  - Low Carbon Footprint (LC)
---------------------------------------------------
-Recipe: California Pasta Salad
+Recipe: Belgian Waffle
 Description: No description found
 Dietary Info:
   - Vegetarian Menu Option (V)
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+--------------------------------------------------
+Recipe: Blueberry Topping
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Chocolate Syrup
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+--------------------------------------------------
+Recipe: Strawberry Topping
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: The Griddler
+Description: No description found
+Dietary Info:
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
   - Contains Eggs (AEGG)
-  - Prepared with Alcohol (AALC)
+--------------------------------------------------
+Recipe: Bodega Egg & Bacon Roll
+Description: A New York-Style breakfast sandwich with a Fried Egg, thick-cut Applewood Smoked Bacon, and melted American Cheese. Served on a Poppy Seed Kaiser Roll.
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Sesame (ASES)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: Chocolate Chip Muffin
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Sesame (ASES)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: Glazed Donut
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: Mini Apple Danish
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: Mini Croissant
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: American Diner
+Description: No description found
+Dietary Info:
+--------------------------------------------------
+Recipe: Lemon Spinach Rice
+Description: Basmati rice cooked with spinach and lemon juice.
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Stewed Cannellini Beans w/ Tomatoes
+Description: Cannellini Beans braised with onion, garlic, and tomatoes, seasoned with fresh sage, rosemary, oregano and parsley.
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Lemon Garlic Chicken Thighs
+Description: No description found
+Dietary Info:
+--------------------------------------------------
+Recipe: Peas & Carrots
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Sesame (ASES)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Roasted Cauliflower
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Roasted Green Beans
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Halal Menu Option (HAL)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
 Recipe: Cantaloupe
@@ -64,29 +205,11 @@ Dietary Info:
   - Vegan Menu Option (VG)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Macaroni and Ham Pasta Salad
-Description: No description found
-Dietary Info:
-  - Contains Wheat (AWHT)
-  - Contains Gluten (AGTN)
-  - Contains Soy (ASOY)
-  - Contains Eggs (AEGG)
---------------------------------------------------
 Recipe: Pineapple
 Description: No description found
 Dietary Info:
   - Vegan Menu Option (VG)
   - Low Carbon Footprint (LC)
---------------------------------------------------
-Recipe: Sour Cream
-Description: No description found
-Dietary Info:
-  - Vegetarian Menu Option (V)
-  - Contains Dairy (AMLK)
---------------------------------------------------
-Recipe: Three Bean Salad
-Description: No description found
-Dietary Info:
 --------------------------------------------------
 Recipe: Watermelon
 Description: No description found
@@ -94,34 +217,23 @@ Dietary Info:
   - Vegan Menu Option (VG)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Broccoli Cheddar Soup
+Recipe: Beef & Barley Soup
+Description: No description found
+Dietary Info:
+  - Contains Gluten (AGTN)
+  - High Carbon Footprint (HC)
+--------------------------------------------------
+Recipe: Cream of Tomato Soup
 Description: No description found
 Dietary Info:
   - Vegetarian Menu Option (V)
-  - Contains Wheat (AWHT)
-  - Contains Gluten (AGTN)
-  - Contains Soy (ASOY)
-  - Contains Sesame (ASES)
   - Contains Dairy (AMLK)
+  - Halal Menu Option (HAL)
 --------------------------------------------------
-Recipe: Chicken Tortilla Soup
+Recipe: Macaroni & Cheese
 Description: No description found
 Dietary Info:
---------------------------------------------------
-Recipe: Kansas City Rub Grilled Chicken
-Description: Garlic, Onion, Brown Sugar, Smoked Paprika, Cayenne,
-Dietary Info:
---------------------------------------------------
-Recipe: Corn & Lima Bean Succotash
-Description: No description found
-Dietary Info:
-  - Vegan Menu Option (VG)
-  - Low Carbon Footprint (LC)
---------------------------------------------------
-Recipe: Vegan Chick'n Fingers
-Description: No description found
-Dietary Info:
-  - Vegan Menu Option (VG)
+  - Vegetarian Menu Option (V)
   - Contains Tree Nuts (ATNT)
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
@@ -131,32 +243,38 @@ Dietary Info:
   - Contains Eggs (AEGG)
   - Contains Crustacean Shellfish (ACSF)
   - Contains Fish (AFSH)
+--------------------------------------------------
+Recipe: Country Fried Steak
+Description: No description found
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Dairy (AMLK)
+  - High Carbon Footprint (HC)
+--------------------------------------------------
+Recipe: Steak Cut Fries
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Pepperoni Pizza
-Description: Pepperoni, Mozzarella, Herbed Olive Oil, NY Style Sauce, House-Made Dough
-Dietary Info:
-  - Contains Wheat (AWHT)
-  - Contains Gluten (AGTN)
-  - Contains Dairy (AMLK)
---------------------------------------------------
-Recipe: Tillamook Ricotta & Fontina Pizza
-Description: Roasted Garlic, Mushroom, Ricotta, Fontina, NY Style Sauce, House-Made Dough
-Dietary Info:
-  - Vegetarian Menu Option (V)
-  - Contains Wheat (AWHT)
-  - Contains Gluten (AGTN)
-  - Contains Dairy (AMLK)
---------------------------------------------------
-Recipe: Garlic Chicken Pizza
-Description: Juicy oven roasted chicken with garlic and red onion over creamy alfredo sauce, mozzarella, and parmesan.  Baked on house-made dough.
-Dietary Info:
-  - Contains Wheat (AWHT)
-  - Contains Gluten (AGTN)
-  - Contains Dairy (AMLK)
---------------------------------------------------
-Recipe: OMG Burger
+Recipe: Fried Vegan Chick'n
 Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Steak Cut Fries
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Meatball Pizza
+Description: Tomato based sauce with creamy mozzarella and parmesan, well seasoned meatballs, and fresh parsley garnish. Baked on house-made dough.
 Dietary Info:
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
@@ -165,12 +283,40 @@ Dietary Info:
   - Contains Eggs (AEGG)
   - High Carbon Footprint (HC)
 --------------------------------------------------
-Recipe: St. Louis Pulled Pork Sandwich
+Recipe: Pepper & Mushroom Pizza
+Description: NY-style pizza sauce topped with mozzarella, red and green bell peppers, and mushroom. Baked on our signature house-made dough.
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Dairy (AMLK)
+--------------------------------------------------
+Recipe: Pepperoni Pizza
+Description: Pepperoni, Mozzarella, Herbed Olive Oil, NY Style Sauce, House-Made Dough
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Dairy (AMLK)
+--------------------------------------------------
+Recipe: Pastrami Burger
 Description: No description found
 Dietary Info:
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
   - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+  - Prepared with Alcohol (AALC)
+  - High Carbon Footprint (HC)
+--------------------------------------------------
+Recipe: Country Gravy Chicken Sandwich
+Description: No description found
+Dietary Info:
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
   - Contains Eggs (AEGG)
 --------------------------------------------------
 Recipe: Bruin Burger
@@ -216,20 +362,30 @@ Dietary Info:
   - Contains Dairy (AMLK)
   - Contains Eggs (AEGG)
 --------------------------------------------------
-Recipe: Banana Bread Pudding
+Recipe: Cheesecake
+Description: No description found
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+  - Prepared with Alcohol (AALC)
+--------------------------------------------------
+Recipe: Chipmunk Bar
 Description: No description found
 Dietary Info:
   - Vegetarian Menu Option (V)
+  - Contains Tree Nuts (ATNT)
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
   - Contains Dairy (AMLK)
   - Contains Eggs (AEGG)
+  - Prepared with Alcohol (AALC)
 --------------------------------------------------
-Recipe: Blondie w/ Walnuts
+Recipe: Chocolate Macaroon Bundt Cake
 Description: No description found
 Dietary Info:
-  - Vegetarian Menu Option (V)
-  - Contains Peanuts (APNT)
   - Contains Tree Nuts (ATNT)
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
@@ -237,22 +393,235 @@ Dietary Info:
   - Contains Sesame (ASES)
   - Contains Dairy (AMLK)
   - Contains Eggs (AEGG)
-  - Prepared with Alcohol (AALC)
 --------------------------------------------------
-Recipe: Chocolate Chip Cookie
+Recipe: Key Lime Pie
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: Oatmeal Raisin Cookie
 Description: No description found
 Dietary Info:
   - Vegan Menu Option (VG)
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
   - Contains Soy (ASOY)
-  - Prepared with Alcohol (AALC)
+  - Halal Menu Option (HAL)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Chocolate Cupcake
+Recipe: Vegan Chocolate Cherry Crisp
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: American Diner
+Description: No description found
+Dietary Info:
+--------------------------------------------------
+Recipe: Lemon Spinach Rice
+Description: Basmati rice cooked with spinach and lemon juice.
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Stewed Cannellini Beans w/ Tomatoes
+Description: Cannellini Beans braised with onion, garlic, and tomatoes, seasoned with fresh sage, rosemary, oregano and parsley.
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Lemon Garlic Chicken Thighs
+Description: No description found
+Dietary Info:
+--------------------------------------------------
+Recipe: Peas & Carrots
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Sesame (ASES)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Roasted Cauliflower
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Roasted Green Beans
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Halal Menu Option (HAL)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Cantaloupe
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Pineapple
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Watermelon
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Beef & Barley Soup
+Description: No description found
+Dietary Info:
+  - Contains Gluten (AGTN)
+  - High Carbon Footprint (HC)
+--------------------------------------------------
+Recipe: Cream of Tomato Soup
 Description: No description found
 Dietary Info:
   - Vegetarian Menu Option (V)
+  - Contains Dairy (AMLK)
+  - Halal Menu Option (HAL)
+--------------------------------------------------
+Recipe: Braised Short Ribs Mac & Cheese
+Description: No description found
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Prepared with Alcohol (AALC)
+--------------------------------------------------
+Recipe: Macaroni & Cheese
+Description: No description found
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Dairy (AMLK)
+--------------------------------------------------
+Recipe: Meatball Pizza
+Description: Tomato based sauce with creamy mozzarella and parmesan, well seasoned meatballs, and fresh parsley garnish. Baked on house-made dough.
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+  - High Carbon Footprint (HC)
+--------------------------------------------------
+Recipe: Pepper & Mushroom Pizza
+Description: NY-style pizza sauce topped with mozzarella, red and green bell peppers, and mushroom. Baked on our signature house-made dough.
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Dairy (AMLK)
+--------------------------------------------------
+Recipe: Pepperoni Pizza
+Description: Pepperoni, Mozzarella, Herbed Olive Oil, NY Style Sauce, House-Made Dough
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Dairy (AMLK)
+--------------------------------------------------
+Recipe: Pastrami Burger
+Description: No description found
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+  - Prepared with Alcohol (AALC)
+  - High Carbon Footprint (HC)
+--------------------------------------------------
+Recipe: Country Gravy Chicken Sandwich
+Description: No description found
+Dietary Info:
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: Bruin Burger
+Description: Blended Patty, Lettuce, Tomato, Pickle, Red Onion, Mayo, House-made Bun
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+  - Halal Menu Option (HAL)
+  - High Carbon Footprint (HC)
+--------------------------------------------------
+Recipe: Bruin Cheeseburger
+Description: Blended Patty, American Cheese, Lettuce, Tomato, Pickle, Red Onion, Mayo, House-made Bun
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+  - Halal Menu Option (HAL)
+  - High Carbon Footprint (HC)
+--------------------------------------------------
+Recipe: Impossible Burger
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: LA Hot Chicken Sandwich
+Description: Fried Chicken, Fuego Sauce, Blue Cheese Coleslaw
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+--------------------------------------------------
+Recipe: Cheesecake
+Description: No description found
+Dietary Info:
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+  - Prepared with Alcohol (AALC)
+--------------------------------------------------
+Recipe: Chipmunk Bar
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Tree Nuts (ATNT)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+  - Prepared with Alcohol (AALC)
+--------------------------------------------------
+Recipe: Chocolate Macaroon Bundt Cake
+Description: No description found
+Dietary Info:
   - Contains Tree Nuts (ATNT)
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
@@ -261,7 +630,7 @@ Dietary Info:
   - Contains Dairy (AMLK)
   - Contains Eggs (AEGG)
 --------------------------------------------------
-Recipe: Coffee Toffee Pie
+Recipe: Key Lime Pie
 Description: No description found
 Dietary Info:
   - Vegetarian Menu Option (V)
@@ -271,7 +640,17 @@ Dietary Info:
   - Contains Dairy (AMLK)
   - Contains Eggs (AEGG)
 --------------------------------------------------
-Recipe: Peach Crisp
+Recipe: Oatmeal Raisin Cookie
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Soy (ASOY)
+  - Halal Menu Option (HAL)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Vegan Chocolate Cherry Crisp
 Description: No description found
 Dietary Info:
   - Vegan Menu Option (VG)
