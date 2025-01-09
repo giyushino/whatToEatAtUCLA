@@ -2,7 +2,9 @@
 
 Welcome to What2Eat@UCLA! This repository is meant to help students choose what dining hall at UCLA to eat at. After all, there are so many great options!
 Here's a preview of this project in action:
-https://drive.google.com/file/d/1juTXqf3SUhc2IrZsA0keley4aV5BfAYX/view?usp=sharing
+
+https://github.com/user-attachments/assets/a5dbed0d-e89b-4b99-b16d-37ad5f31705b
+
 
 
 This project currently relies heavily on Deepseek, so you will need an API key. However, there are plans to have this project run on lightweight, open-source LLMs and use cosine similarity to retain current capabilities without spending money. 
