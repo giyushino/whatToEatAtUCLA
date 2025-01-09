@@ -13,3 +13,13 @@ pip install -e .
 ```
 
 ## Run this code
+Navigate to whatToEatAtUCLA\scripts\main.py and enter in your API key 
+
+```python
+from scripts.webscraper import access_html, parse 
+from scripts.model import deepseek_chat
+import os 
+
+#****************************
+OPENAI_API_KEY = 'YOUR KEY HERE'
+#*******************************
