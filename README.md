@@ -13,7 +13,7 @@ To set up this project, clone the project and create a new Anaconda environment
 
 ```sh
 conda create -n <my-env>
-pip install -r .
+pip install -r requirements.txt
 pip install -e .
 ```
 
