@@ -24,7 +24,7 @@ pip install -e .
 ```
 
 ### Run this code
-Users can manually cd to /whatToEatAtUCLA/scripts/main.py and enter their API key, replacing the placeholder 'YOUR KEY HERE'. It is recommended that users create a .env file and enter their API key there. 
+Users can manually open /scripts/main.py and enter their API key, replacing the placeholder 'YOUR KEY HERE'. It is recommended that users create a .env file and enter their API key there. 
 
 ```python
 from openai import OpenAI
@@ -45,5 +45,9 @@ cd /whatToEatAtUCLA/scripts
 python main.py.
 ```
 Have fun!
+
+# To Do 
+- [x] TinyLlama implementation? Sort of wonky, model hallucinates a lot. More testing needed
+- [] Finetune model? Perhaps add search function and cosine similarity
 
 
