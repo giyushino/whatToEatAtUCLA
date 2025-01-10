@@ -14,21 +14,33 @@ Here's a preview of this project in action:
 
 This project currently relies heavily on Deepseek, so you will need an API key. However, there are plans to have this project run on lightweight, open-source LLMs and use cosine similarity to retain current capabilities without spending money. 
 
+## Setting up with Anaconda  
 To set up this project, clone the project and create a new Anaconda environment
 
 ```sh
 conda create -n <my-env>
 pip install -e .
-pip install -r requirements.txt
+```
+
+## Setting up with venv 
+```sh
+python -m venv .venv
+.venv\Scripts\activate 
+pip install -e .
 ```
 
 ## Run this code
-Navigate to /whatToEatAtUCLA/scripts/main.py and enter your API key, replacing the placeholder 'YOUR KEY HERE'
+Users can manually cd to /whatToEatAtUCLA/scripts/main.py and enter their API key, replacing the placeholder 'YOUR KEY HERE'. It is recommended that users create a .env file and enter their API key there. 
 
 ```python
-from scripts.webscraper import access_html, parse 
-from scripts.model import deepseek_chat
-import os 
+from openai import OpenAI
+import os
+from scripts.reformat import create_menus, split
+from dotenv import load_dotenv
+load_dotenv()
+
+#*******************************
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 #*******************************
 OPENAI_API_KEY = 'YOUR KEY HERE'
