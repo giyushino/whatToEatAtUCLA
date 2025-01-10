@@ -39,7 +39,11 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 ********************************
 ```
 
-In your terminal, cd to /whatToEatAtUCLA/scripts/ and run python main.py. 
+In your terminal, 
+```sh
+cd /whatToEatAtUCLA/scripts
+python main.py.
+```
 Have fun!
 
 
