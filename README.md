@@ -37,9 +37,9 @@ load_dotenv()
 #*******************************
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 ********************************
+'''
 
-
-In your conda environment, cd to /whatToEatAtUCLA/scripts/ and run python main.py. 
+In your terminal, cd to /whatToEatAtUCLA/scripts/ and run python main.py. 
 Have fun!
 
 
