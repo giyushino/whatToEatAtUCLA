@@ -1,24 +1,53 @@
-Recipe: Pasta w/ Spring Vegetables
-Description: Angel Hair pasta tossed with herb oil and spring vegetables, and garnished with fresh parsley and parmesan cheese.
+Recipe: Build-Your-Own Pasta Bar
+Description: No description found
+Dietary Info:
+--------------------------------------------------
+Recipe: Rigatoni Noodles
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Alfredo Sauce
+Description: A creamy bechamel sauce with garlic and parmesan cheese.
 Dietary Info:
   - Vegetarian Menu Option (V)
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
   - Contains Dairy (AMLK)
 --------------------------------------------------
-Recipe: Rotini Carbonara
+Recipe: Cannellini Beans
 Description: No description found
 Dietary Info:
-  - Contains Wheat (AWHT)
-  - Contains Gluten (AGTN)
-  - Contains Dairy (AMLK)
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Pizza Carnivora
-Description: Italian Sausage, Pepperoni, Canadian Bacon,Parmesan, Mozzarella, NY Style Sauce, House-Made Dough
+Recipe: Grilled Chicken Thigh
+Description: No description found
+Dietary Info:
+  - Halal Menu Option (HAL)
+--------------------------------------------------
+Recipe: Roasted Cumin & Coriander Carrots
+Description: Poached and roasted carrots, scented with toasted cumin and coriander spices.
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Roasted Eggplant
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Pizza Romano
+Description: Our handcrafted pizza dough is topped with a savory pomodoro sauce, fragrant garlic, and a blend of Italian herbs. Generously topped creamy mozzarella cheese, beef and a medley of roasted bell peppers and onions.
 Dietary Info:
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
   - Contains Dairy (AMLK)
+  - Halal Menu Option (HAL)
   - High Carbon Footprint (HC)
 --------------------------------------------------
 Recipe: Cheese Pizza
@@ -37,44 +66,63 @@ Dietary Info:
   - Contains Gluten (AGTN)
   - Contains Dairy (AMLK)
 --------------------------------------------------
-Recipe: Rosemary Chicken
-Description: No description found
-Dietary Info:
-  - Contains Dairy (AMLK)
-  - Prepared with Alcohol (AALC)
---------------------------------------------------
-Recipe: Roasted Mushroom & Muhammara Pita
+Recipe: Green Harissa
 Description: No description found
 Dietary Info:
   - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Roasted Corn Couscous Kofta
+Description: A savory and sweet mixture of roasted corn, creamed corn, red peppers, spices with crushed cous cous, fried until golden brown.
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Eggs (AEGG)
+  - Halal Menu Option (HAL)
+--------------------------------------------------
+Recipe: French Fries
+Description: Crispy, golden brown french fries.
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Soy (ASOY)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Wilted Collard Greens
+Description: Collard greens sauted in extra virgin olive oil with garlic, caramelized onions, and crushed red chili flakes.
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Create Your Own Hummus Bowl
+Description: Indulge in a fresh and flavorful plant-based feast with our Create Your Own Hummus Bowl!
+Dietary Info:
+  - Contains Peanuts (APNT)
   - Contains Tree Nuts (ATNT)
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
   - Contains Soy (ASOY)
-  - Low Carbon Footprint (LC)
+  - Contains Sesame (ASES)
+  - Contains Dairy (AMLK)
+  - Contains Eggs (AEGG)
+  - Contains Crustacean Shellfish (ACSF)
+  - Contains Fish (AFSH)
+  - Prepared with Alcohol (AALC)
 --------------------------------------------------
-Recipe: Mint Couscous
+Recipe: Cucumber
 Description: No description found
 Dietary Info:
   - Vegan Menu Option (VG)
-  - Contains Wheat (AWHT)
-  - Contains Gluten (AGTN)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Fava Bean & Dill Dip
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
   - Halal Menu Option (HAL)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Oven Roasted Herb Potatoes
-Description: No description found
-Dietary Info:
-  - Vegan Menu Option (VG)
-  - Low Carbon Footprint (LC)
---------------------------------------------------
-Recipe: Roasted Broccolini
-Description: Roasted broccolini topped with mixture of roasted red peppers, roasted garlic, walnut pieces, sherry vinegar, extra virgin olive oil, and cilantro.
-Dietary Info:
-  - Vegan Menu Option (VG)
-  - Low Carbon Footprint (LC)
---------------------------------------------------
-Recipe: Roasted Butternut Squash
+Recipe: Grape Tomatoes
 Description: No description found
 Dietary Info:
   - Vegan Menu Option (VG)
@@ -88,44 +136,41 @@ Dietary Info:
   - Halal Menu Option (HAL)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Smoked Mozzarella Spread
-Description: A flavorful spread made of grated, smoky mozzarella cheese, umami-rich sundried tomatoes, creamy mayo and spicy harissa paste.
-Dietary Info:
-  - Vegetarian Menu Option (V)
-  - Contains Soy (ASOY)
-  - Contains Dairy (AMLK)
-  - Contains Eggs (AEGG)
-  - Halal Menu Option (HAL)
---------------------------------------------------
-Recipe: Tzatziki Sauce
-Description: A refreshing sauce of greek yogurt, cucumbers, fresh mint, fresh dill, lemon juice and garlic.
-Dietary Info:
-  - Vegetarian Menu Option (V)
-  - Contains Dairy (AMLK)
-  - Halal Menu Option (HAL)
---------------------------------------------------
-Recipe: Halal Braised Beef
+Recipe: Marinated Olives
 Description: No description found
-Dietary Info:
-  - Halal Menu Option (HAL)
-  - High Carbon Footprint (HC)
---------------------------------------------------
-Recipe: Mashed Potatoes
-Description: No description found
-Dietary Info:
-  - Vegetarian Menu Option (V)
-  - Contains Dairy (AMLK)
---------------------------------------------------
-Recipe: Fried Spanish Style Cauliflower w/ Braised Kale
-Description: Cauliflower seasoned with garlic and smoked paprika, dusted with chickpea flour and then deep-fried until golden and crispy. Served over braised kale.
 Dietary Info:
   - Vegan Menu Option (VG)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Apple Tarte Tatin
-Description: Layers of puff pastry, apples, cinnamon, and sugar, baked until golden brown.
+Recipe: Muhammara (Spicy Roasted Pepper Dip)
+Description: No description found
 Dietary Info:
   - Vegan Menu Option (VG)
+  - Contains Tree Nuts (ATNT)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Oven Roasted Cauliflower
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Roasted Carrots
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Zhug
+Description: No description found
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Low Carbon Footprint (LC)
+--------------------------------------------------
+Recipe: Build Your Own Garlic Bread
+Description: No description found
+Dietary Info:
+  - Contains Peanuts (APNT)
   - Contains Tree Nuts (ATNT)
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
@@ -135,29 +180,34 @@ Dietary Info:
   - Contains Eggs (AEGG)
   - Contains Crustacean Shellfish (ACSF)
   - Contains Fish (AFSH)
+  - Prepared with Alcohol (AALC)
+--------------------------------------------------
+Recipe: Pasta Alfredo
+Description: No description found
+Dietary Info:
+  - Vegetarian Menu Option (V)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
+  - Contains Dairy (AMLK)
+--------------------------------------------------
+Recipe: Penne w/ Marinara Sauce
+Description: Cooked ziti noodles tossed with house made marinara sauce.
+Dietary Info:
+  - Vegan Menu Option (VG)
+  - Contains Wheat (AWHT)
+  - Contains Gluten (AGTN)
   - Low Carbon Footprint (LC)
 --------------------------------------------------
-Recipe: Chocolate Ganache Cake
+Recipe: Chocolate & Caramel Cream Cake
 Description: No description found
 Dietary Info:
   - Vegetarian Menu Option (V)
   - Contains Wheat (AWHT)
   - Contains Gluten (AGTN)
   - Contains Soy (ASOY)
+  - Contains Sesame (ASES)
   - Contains Dairy (AMLK)
   - Contains Eggs (AEGG)
---------------------------------------------------
-Recipe: Flan
-Description: A Spanish dessert of eggs, milk, sugar and vanilla served chilled and garnished with a caramel sauce.
-Dietary Info:
-  - Contains Peanuts (APNT)
-  - Contains Tree Nuts (ATNT)
-  - Contains Wheat (AWHT)
-  - Contains Gluten (AGTN)
-  - Contains Soy (ASOY)
-  - Contains Dairy (AMLK)
-  - Contains Eggs (AEGG)
-  - Prepared with Alcohol (AALC)
 --------------------------------------------------
 Recipe: Oatmeal Raisin Cookie
 Description: No description found
