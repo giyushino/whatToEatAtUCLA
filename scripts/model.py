@@ -6,7 +6,8 @@ from scripts.reformat import create_menus, split
 base_dir = os.path.dirname(os.path.abspath(__file__))
 menu_dir = os.path.join(base_dir, "menu")
 diningHalls = ["DeNeve", "Epicuria", "BruinPlate"]
-OPENAI_API_KEY = 'API_KEY'
+OPENAI_API_KEY = 'sk-74e6ebb8151e4433988b8cbc5759c399'
+
 
 def deepseek_chat(menu_dir, halls=diningHalls, OPENAI_API_KEY=OPENAI_API_KEY):
     """
@@ -57,6 +58,6 @@ def deepseek_chat(menu_dir, halls=diningHalls, OPENAI_API_KEY=OPENAI_API_KEY):
 
         messages.append({"role": "assistant", "content": bot_reply})
 
-#deepseek_chat(menu_dir)
+deepseek_chat(menu_dir, halls = diningHalls, OPENAI_API_KEY = OPENAI_API_KEY)
 
 

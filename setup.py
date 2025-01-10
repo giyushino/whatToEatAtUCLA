@@ -21,6 +21,7 @@ setup(
         "openai==1.59.5",
         "pydantic==2.10.4",
         "pydantic_core==2.27.2",
+        "python-dotenv==1.0.1",
         "requests==2.32.3",
         "sniffio==1.3.1",
         "soupsieve==2.6",

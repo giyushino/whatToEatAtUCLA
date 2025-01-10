@@ -1,9 +1,12 @@
 from scripts.webscraper import access_html, parse 
 from scripts.model import deepseek_chat
 import os 
+from dotenv import load_dotenv
+load_dotenv()
 
-#****************************
-OPENAI_API_KEY = 'API_KEY'
+
+#*******************************
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 #*******************************
 
 # Initial setup
@@ -12,7 +15,6 @@ diningHallLink = "https://menu.dining.ucla.edu/Menus/{}"
 base_dir = os.path.dirname(os.path.abspath(__file__))
 html_dir = os.path.join(base_dir, "html")
 menu_dir = os.path.join(base_dir, "menu")
-OPENAI_API_KEY = 'sk-7f69681efb6a43ea8fa0158c84474c23'
 
 
 initial = input("Welcome to What2Eat@UCLA! If you would like to the newest menu information, please type 'yes'. Otherwise, please press any key to continue.\n")
