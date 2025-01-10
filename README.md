@@ -1,7 +1,10 @@
 # whatToEatAtUCLA
 
 Welcome to What2Eat@UCLA! This repository is meant to help students choose what dining hall at UCLA to eat at. After all, there are so many great options! However, for those who are also more health conscious or worry about allergies, this project can help you stay safe, healthy, and fit! 
-Uploading what2eat@ucla.mp4…
+
+https://github.com/user-attachments/assets/7787bc2f-342b-4f43-ad96-e004a192ab2c
+
+
 
 
 Here's a preview of this project in action:
