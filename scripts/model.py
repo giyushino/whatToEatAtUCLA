@@ -62,6 +62,6 @@ def deepseek_chat(menu_dir, halls=diningHalls, OPENAI_API_KEY=OPENAI_API_KEY):
 
         messages.append({"role": "assistant", "content": bot_reply})
 
-deepseek_chat(menu_dir, halls = diningHalls, OPENAI_API_KEY = OPENAI_API_KEY)
+#deepseek_chat(menu_dir, halls = diningHalls, OPENAI_API_KEY = OPENAI_API_KEY)
 
 
