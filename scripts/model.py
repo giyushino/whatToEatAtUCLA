@@ -1,12 +1,16 @@
 from openai import OpenAI
 import os
 from scripts.reformat import create_menus, split
+from dotenv import load_dotenv
+load_dotenv()
 
+#*******************************
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+#*******************************
 # Initialize the base and menu directory 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 menu_dir = os.path.join(base_dir, "menu")
 diningHalls = ["DeNeve", "Epicuria", "BruinPlate"]
-OPENAI_API_KEY = 'sk-74e6ebb8151e4433988b8cbc5759c399'
 
 
 def deepseek_chat(menu_dir, halls=diningHalls, OPENAI_API_KEY=OPENAI_API_KEY):
