@@ -39,13 +39,11 @@ from scripts.reformat import create_menus, split
 from dotenv import load_dotenv
 load_dotenv()
 
+# You can set OPENAI_API_KEY to the actual API if you don't want to set up a .env file 
 #*******************************
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+********************************
 
-#*******************************
-OPENAI_API_KEY = 'YOUR KEY HERE'
-#*******************************
-```
 
 In your conda environment, cd to /whatToEatAtUCLA/scripts/ and run python main.py. 
 Have fun!
