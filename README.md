@@ -49,5 +49,6 @@ Have fun!
 # To Do 
 - [x] TinyLlama implementation? Sort of wonky, model hallucinates a lot. More testing needed
 - [] Finetune model? Perhaps add search function and cosine similarity
+- [] Consider RAG
 
 
