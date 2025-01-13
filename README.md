@@ -6,7 +6,7 @@ Here's a preview of this project in action:
 
 https://github.com/user-attachments/assets/7787bc2f-342b-4f43-ad96-e004a192ab2c
 
-This project currently relies heavily on Deepseek, so you will need an API key. I will provide one if necessary. However, there are plans to have this project run on lightweight, open-source LLMs and use cosine similarity to retain current capabilities without spending money. 
+This project currently relies heavily on Deepseek, so you will need an API key. I will provide one if necessary. However, there are plans to have this project run on lightweight, open-source LLMs and use cosine similarity to retain current capabilities without spending money. I'll be finetuning TinyLlama whenever I find the time and energy.
 
 ## Setting up with Anaconda  
 To set up this project, clone the project and create a new Anaconda environment
